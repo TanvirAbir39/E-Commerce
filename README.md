@@ -1,2 +1,2 @@
 # E-Commerce
- avascript, HTML5,  CSS3.
+ Javascript, HTML5,  CSS3.
