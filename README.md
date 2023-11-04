@@ -1,6 +1,6 @@
 # E-Commerce
 
-## This project is a Html E-Commerce new Customers can register and log in to browse and add products to their cart, which includes a cool hover effect on product cards. The site is built using HTML, CSS, and JavaScript and has an intuitive interface for a seamless shopping experience.
+## This project is a Html E-Commerce new Customers can add products to their cart, which includes a cool hover effect on product cards. The site is built using HTML, CSS, and JavaScript and has an intuitive interface for a seamless shopping experience.
 
 ## Screenshots
 
